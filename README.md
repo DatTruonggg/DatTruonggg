@@ -1,16 +1,12 @@
 <h1 align="center">Hello guys 👋, I'm Dat Truong</h1>
 <h3 align="center">AI Engineer</h3>
 
-- 🌱 I’m currently learning **AI Engineering**
-
-- 💬 Ask me about **Machine Learning, Deep Learning**
-
-- 👨‍🎓I'm also learning about software development to deploy my AI model to the web or an app sch as **React Native, JavaScipt, Typescript**
-  
-- 📫 Email: **truongminhdat07@gmail.com**
-
-<p align="left">
-</p>
+<ul>
+  <li>🌱 I’m currently learning <strong>AI Engineering</strong></li>
+  <li>💬 Ask me about <strong>Machine Learning, Deep Learning</strong></li>
+  <li>👨‍🎓I'm also learning about software development to deploy my AI model to the web or an app such as <strong>React Native, JavaScript, TypeScript</strong></li>
+  <li>📫 Email: <strong>truongminhdat07@gmail.com</strong></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
