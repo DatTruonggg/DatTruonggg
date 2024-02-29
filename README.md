@@ -2,10 +2,10 @@
 <h3 align="center">AI Engineer</h3>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>AI Engineering</strong></li>
+  <li>🧑‍💻 I’m currently learning <strong>AI Engineering</strong></li>
   <li>💬 Ask me about <strong>Machine Learning, Deep Learning</strong></li>
   <li>👨‍🎓I'm also learning about software development to deploy my AI model to the web or an app such as <strong>React Native, JavaScript, TypeScript</strong></li>
-  <li>📫 Email: <strong>truongminhdat07@gmail.com</strong></li>
+  <li>📩 Email: <strong>truongminhdat07@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
