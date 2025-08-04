@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer</h3>
 
 <ul>
-  <li>🧑‍💻 I’m currently learning <strong>AI Engineer</strong></li>
+  <li>🧑‍💻 I’m currently an  <strong>AI Engineer</strong></li>
   <li>📩 Email: <strong>truongminhdat07@gmail.com</strong> | <strong>dattruongg1311@gmail.com</strong></li>
 </ul>
 
